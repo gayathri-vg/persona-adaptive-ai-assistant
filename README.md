@@ -23,7 +23,7 @@ The goal of this project is to explore human-centered AI system design through p
 - Mistral-7B-Instruct (via OpenRouter API)
 
 ## Project Structure
-ai_assistant.js
-trial_ai_input.js
-.env.example
-package.json
+-ai_assistant.js
+-trial_ai_input.js
+-.env.example
+-package.json
